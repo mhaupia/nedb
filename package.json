@@ -39,6 +39,7 @@
   },
   "main": "index",
   "browser": {
+        "./lib/customUtils.js": "./browser-version/browser-specific/lib/customUtils.js",
   },
   "license": "SEE LICENSE IN LICENSE"
 }
